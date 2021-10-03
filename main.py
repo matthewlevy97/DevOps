@@ -1,6 +1,6 @@
 def main():
-    echo("Hello from main")
-    echo("Push!")
+    print("Hello from main")
+    print("Push!")
 
 if __name__ == '__main__':
     main()
